@@ -23,12 +23,12 @@ class WelcomeActivity : AppCompatActivity() {
 
     private fun optionsWelcome() {
         binding.loginBtn.setOnClickListener {
-            val intent = Intent(this, LoginActivity::class.java)
+            //TODO val intent = Intent(this, LoginActivity::class.java)
             startActivity(intent)
         }
 
         binding.registerBtn.setOnClickListener {
-            val intent = Intent(this, RegisterActivity::class.java)
+            //TODO val intent = Intent(this, RegisterActivity::class.java)
             startActivity(intent)
         }
     }
