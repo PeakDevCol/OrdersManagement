@@ -3,6 +3,7 @@
     package="com.peakdevcol.quickorder">
 
     <application
+        android:name=".QuickOrderApp"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
@@ -20,7 +21,7 @@
         </activity>
         <activity
             android:name=".MainActivity"
-            android:exported="true">
+            android:exported="false">
 
         </activity>
     </application>

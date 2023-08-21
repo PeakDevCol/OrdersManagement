@@ -7,7 +7,9 @@ import androidx.activity.viewModels
 import com.peakdevcol.quickorder.R
 import com.peakdevcol.quickorder.databinding.ActivityWelcomeBinding
 import com.peakdevcol.quickorder.ui.viewmodel.WelcomeViewModel
+import dagger.hilt.android.AndroidEntryPoint
 
+@AndroidEntryPoint
 class WelcomeActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityWelcomeBinding

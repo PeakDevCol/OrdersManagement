@@ -2,4 +2,8 @@
     <string name="app_name">QuickOrder</string>
     <string name="iniciar_sesion">Iniciar sesion</string>
     <string name="registrarse">Registrarse</string>
+    <string name="acronym">HJF</string>
+    <string name="city_country">City, Country</string>
+    <string name="welcome_msg">Bienvenido a la mejor experiencia hotelera</string>
+    <string name="hotel_name">Hotel Nombre de ejemplo</string>
 </resources>
